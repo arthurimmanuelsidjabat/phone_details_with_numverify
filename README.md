@@ -1,2 +1,4 @@
-# phone_details_with_numverify
-Get phone details using Numverify API
+# Phone details using Phyton requests and Numverify API
+
+<p>Install requests</p>
+<code>pip install requests</code>
